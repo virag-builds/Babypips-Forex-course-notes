@@ -6,6 +6,7 @@
 <h1 id="what-is-traded-in-forex">What is traded in forex?</h1>
 <p>Money.</p>
 <p>A currency’s exchange rate shows how strong/weak that country’s economy is, but only when we compare it to other countries economies.</p>
+<p>There are 180 legal currencies in the world, as recognized by the United Nations but not all of them tradable.</p>
 <h2 id="major-currencies">Major currencies</h2>
 <p>They are the most heavily traded currencies and represent some of the world’s largest economies.</p>
 
