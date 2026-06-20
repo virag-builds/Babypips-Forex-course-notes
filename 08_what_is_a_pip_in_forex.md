@@ -9,12 +9,26 @@
 <ul>
 <li>e.g. 1.15382
 <ul>
-<li>1 (first) =&gt; 10,000 pips</li>
-<li>1 (second) =&gt; 1000 pips</li>
-<li>5 =&gt; 500 pips</li>
-<li>3 =&gt; 30 pips</li>
-<li>8 =&gt; 8 pips</li>
-<li>2 =&gt; 0.2 pips</li>
+<li>1 (first) -&gt; 10,000 pips</li>
+<li>1 (second) -&gt; 1000 pips</li>
+<li>5 -&gt; 500 pips</li>
+<li>3 -&gt; 30 pips</li>
+<li>8 -&gt; 8 pips</li>
+<li>2 -&gt; 0.2 pips</li>
+</ul>
+</li>
+<li>non-JPY pairs -&gt; 1.0952
+<ul>
+<li>9 -&gt; 100s</li>
+<li>5 -&gt; 10s</li>
+<li>2 -&gt;1s</li>
+</ul>
+</li>
+<li>JPY pairs -&gt; 110.82
+<ul>
+<li>0 -&gt; 100s</li>
+<li>8 -&gt; 10s</li>
+<li>2 -&gt; 1s</li>
 </ul>
 </li>
 </ul>
@@ -32,9 +46,15 @@
 <h2 id="how-to-calculate-the-value-of-the-pip">How to calculate the value of the pip?</h2>
 <ul>
 <li><strong>Pip size</strong>: 0.0001 for most pairs (4 decimal places). For JPY pairs it’s 0.01 (2 decimal places).</li>
-<li><strong>Pip value</strong> = How much your account currency changes for a 1-pip move in the pair.</li>
-<li>The initial pip movement always affects the <strong>quote currency</strong> (the second currency in the pair).</li>
-<li>Then you convert to your <strong>account currency</strong> if needed.</li>
+<li>The initial pip movement always affects the <strong>quote currency</strong>.</li>
+<li>standard lot =&gt; $10</li>
+<li>mini lot =&gt; $1</li>
+<li>micro lot =&gt; 10 cent
+<ul>
+<li>these values are for generalization, it’s for every pair that contains USD</li>
+<li>other pairs have similar value, different but not too much difference</li>
+</ul>
+</li>
 </ul>
 <h3 id="case-1-account-currency--quote-currency-of-the-pair">Case 1: Account Currency = Quote Currency of the Pair</h3>
 <p>(Example: <strong>USD account</strong> trading <strong>EUR/USD</strong> — USD is the quote currency)</p>
