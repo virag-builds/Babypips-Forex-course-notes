@@ -4,7 +4,6 @@
 ---
 
 <h1 id="how-does-forex-trading-work">How does forex trading work?</h1>
-<p>Forex trading is the process of speculating on currency prices to try and make a profit. The value of a currency is influenced by economic, political, geopolitical events, and trade/financial flows.</p>
 <p><code>Basic example:</code></p>
 <ul>
 <li>you purchase 10,000 euros at the EUR/USD exchange rate of 1.1800</li>
