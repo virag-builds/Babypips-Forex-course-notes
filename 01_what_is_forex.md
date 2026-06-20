@@ -10,7 +10,6 @@
 <li>FX/foreign exchange market</li>
 <li>largest financial market in the world</li>
 <li>decentralized</li>
-<li>if we think one currency will be stronger vs the other one, and we are correct, then we can make a profit</li>
 </ul>
 </li>
 </ul>
@@ -24,7 +23,7 @@
 <li>e.g 1 USD = 0.95 EUR</li>
 <li>this is the relative price of the euro in terms of dollars</li>
 <li>the exchange rate changes by second because of the wide range of market participants (central banks, financial institutions, corporations, individual traders), so basically the market is constantly in flux (flow)</li>
-<li>only a tiny percentage of currency transactions happen in the real economy involving international trade and tourism</li>
+<li>only a tiny percentage of currency transactions happen in the real economy involving international trade and tourism =&gt; most of the currency transactions that occur in the FX market are bought/sold for speculative reasons</li>
 </ul>
 </li>
 <li>
@@ -34,16 +33,20 @@
 <li>settling payments for imported/exported goods/services</li>
 </ul>
 </li>
-</ul>
-<p>Most of the currency transactions that occur in the FX market are bought/sold for speculative reasons. E.g. currency traders (currency speculators) buy currencies hoping that they will be able to sell them at a higher price in the future.</p>
-<ul>
-<li><mark><strong>NYSE</strong></mark> =&gt; New York Stock Exchange (largest stock market in the world)
+<li>
+<p><mark><strong>NYSE</strong></mark> =&gt; New York Stock Exchange (largest stock market in the world)</p>
 <ul>
 <li>trades a volume of about $20 billion each day</li>
 </ul>
 </li>
-<li>FX market =&gt; $7.5 trillion average daily trading volume</li>
-<li>the “spot” market (which is relevant to most forex traders) =&gt; $2 trillion per day</li>
-<li>from retail traders =&gt; around $200-$300 billion or less</li>
+<li>
+<p>FX market =&gt; $7.5 trillion average daily trading volume</p>
+</li>
+<li>
+<p>the “spot” market (which is relevant to most forex traders) =&gt; $2 trillion per day</p>
+</li>
+<li>
+<p>from retail traders =&gt; around $200-$300 billion or less</p>
+</li>
 </ul>
 
