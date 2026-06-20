@@ -5,7 +5,6 @@
 
 <h1 id="what-is-traded-in-forex">What is traded in forex?</h1>
 <p>Money.</p>
-<p>A currency’s exchange rate shows how strong/weak that country’s economy is, but only when we compare it to other countries economies.</p>
 <p>There are 180 legal currencies in the world, as recognized by the United Nations but not all of them tradable.</p>
 <h2 id="major-currencies">Major currencies</h2>
 <p>They are the most heavily traded currencies and represent some of the world’s largest economies.</p>
@@ -85,5 +84,5 @@
 <p>These 3 letters are known as ISO4217 Currency Codes.<br>
 By 1973, the International Organization for Standardization established the three-letter codes for currencies that we use today.</p>
 <p>British pound is the world’s oldest currency that is still in use, dating back to the 8th century.<br>
-The newest currency in the world (April 8, 2024) is the Zimbabwe Gold (ZIG) which replaced the Zimbabwean dollar.</p>
+The newest currency in the world (April 8, 2024) is the Zimbabwe Gold (ZIG).</p>
 
