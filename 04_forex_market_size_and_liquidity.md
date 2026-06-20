@@ -6,7 +6,6 @@
 <h1 id="forex-market-size-and-liquidity">Forex market size and liquidity</h1>
 <ul>
 <li>the majority of forex trading happens in the interbank market</li>
-<li>the forex market is considered an over-the-counter (OTC) market, because the entire market runs electronically within a network of banks and non-bank financial institutions (NBFIs)</li>
 <li>the U.S. dollar is the most traded, then the euro, then the yen</li>
 <li>the U.S. dollar plays a central role in the forex market:
 <ul>
@@ -46,5 +45,4 @@
 <li>to avoid or “hedge” (protection or defense against financial loss) against foreign exchange rate fluctuations from when a transaction is initiated and when payment is received</li>
 <li>to speculate</li>
 </ol>
-<p>While commercial and financial transactions are part of the trading volume, most of the trading volume comes from traders that buy/sell based on the short-term price movements of currency pairs.</p>
 
