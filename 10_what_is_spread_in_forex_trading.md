@@ -51,7 +51,7 @@ Using a dealing desk, the broker buys large positions from their liquidity provi
 <h4 id="disadvantages">Disadvantages:</h4>
 <ul>
 <li>requotes can occur frequently since pricing is coming from just one source (the broker)</li>
-<li>slippage is another problem =&gt; when prices are moving fast, the broker is unable to consistently maintain a fixed spread and the price that you finally end up with after entering the trade will be totally different than the intended entry price</li>
+<li>slippage is another problem =&gt; when prices are moving fast, the broker is unable to consistently maintain a fixed spread =&gt; the difference between the expected price of a trade and the price at which the trade is actually executed</li>
 </ul>
 <h3 id="variable-spreads">2.) Variable spreads</h3>
 <p>They are always changing.<br>
